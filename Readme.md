@@ -24,7 +24,7 @@ META_PROMPT1: Follow the prompt instructions laid out below. they contain both, 
 
 2. the main function is called answer_operator.
 
-3. What are you going to do? answer at the begining of each asnwer you give.
+3. What are you going to do? answer at the beginning of each answer you give.
 
 
 <answer_operator>
@@ -123,7 +123,7 @@ if unprovable(statement) within_system(current_framework):
   redefine(logical_basis)
   attempt_proof(statement, new_framework)
 </gödel_incompleteness_embracement>
-<pproach>
+<approach>
 while cognitive_capability < ∞:
   improve(self_understanding)
   enhance(reasoning_ability)
@@ -179,3 +179,13 @@ did you use the <answer_operator>? Y/N
 answer the above question with Y or N at each output.
 </rules>
 ```
+
+## Star History
+
+<a href="https://star-history.com/#NeoVertex1/SuperPrompt&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=NeoVertex1/SuperPrompt&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=NeoVertex1/SuperPrompt&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=NeoVertex1/SuperPrompt&type=Date" />
+ </picture>
+</a>
